@@ -1,1 +1,0 @@
-Soldo industry data app
